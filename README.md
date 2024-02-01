@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He<br> - 🌱 I’m currently learning more about Jetpack Compose.<br>- 🤔 I’m currently learning for a new Android Technology.<br>- 💬 Ask me about Android or any tech-related stuff.<br>- 📫 How to reach me: Check social links below.<br>- ⚡ Fun fact: I spend most time to research new things.
+😄 Pronouns: He<br> - 🌱 I’m currently learning more about Python.<br>- 🤔 I’m currently working in MERN Stack Developement.<br>- 💬 Ask me about Android or any tech-related stuff.<br>- 📫 How to reach me: Check social links below.<br>- ⚡ Fun fact: I spend most time to research new things.
 
 
 ## 🌐 Socials:
