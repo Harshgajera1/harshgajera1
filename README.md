@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He<br> - 🌱 I’m currently learning Python.<br>- 🔭 I’m currently working on MERN Stack Developement <br>- 💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.<br>- 📫 How to reach me https://harshgajera.info<br>- ⚡ Fun fact: I spend most time to research new things.
+😄 Pronouns: He<br> - 🌱 I’m currently learning Python.<br>- 🔭 I’m currently working on MERN Stack Developement <br>- 💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.<br>- 📫 How to reach me harshgajera.info<br>- ⚡ Fun fact: I spend most time to research new things.
 
 
 ## 🌐 Socials:
