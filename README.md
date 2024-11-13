@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Node.js, Express, Postgresql, MongoDB Etc.**
 
-- 📫 How to reach me **harshgajera202@gmail.com**
+- 📫 How to reach me **harshgajera2223@gmail.com**
 
 - ⚡ Fun fact **I am half Human and Half JavaScript**
 
