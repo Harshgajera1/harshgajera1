@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [http://harshgajera.info/](http://harshgajera.info/)
+- 👨‍💻 All of my projects are available at [http://harshgajera.info/]([http://harshgajera.info/](https://harshgajera.onrender.com)
 
 - 💬 Ask me about **React, Node.js, Express, Postgresql, MongoDB Etc.**
 
